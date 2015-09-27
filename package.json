@@ -1,6 +1,6 @@
 {
   "name": "gulp-stream-limiter",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "Limit the number of files passing through a stream",
   "main": "index.js",
   "scripts": {
