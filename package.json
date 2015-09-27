@@ -1,0 +1,24 @@
+{
+  "name": "gulp-stream-limiter",
+  "version": "1.0.0",
+  "description": "Limit the number of files passing through a stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanwhoa/gulp-stream-limiter.git"
+  },
+  "keywords": [
+    "gulp",
+    "stream",
+    "limit"
+  ],
+  "author": "kanwhoa <public@kano.org.uk> (http://www.kano.org.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kanwhoa/gulp-stream-limiter/issues"
+  },
+  "homepage": "https://github.com/kanwhoa/gulp-stream-limiter#readme"
+}
